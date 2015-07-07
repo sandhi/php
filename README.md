@@ -1,4 +1,4 @@
-Example PHP project
+Example PHP project - sandhi
 ===================
 
 The purpose of this repository is to show how to use Travis CI to do
